@@ -7,9 +7,15 @@ each folder contains a separate cmakelist, which can used to build the project
 build project by
 
 cd animationX
+
 mkdir build2
+
 cd build2
+
 cmake ..
+
 make 
+
 where X is the number 1-5, and then put the OBJ files into build2 folder
+
 use./ANAX to run the animation
