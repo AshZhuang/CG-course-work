@@ -74,7 +74,6 @@ void Model::renderFrame(DrawingWindow &window, void(*eventHandler)(SDL_Event eve
 
 void keyboardHandler(SDL_Event event, DrawingWindow &window, Model &m) {
     if (event.type == SDL_KEYDOWN) {
-        // <-> To position camera
         if (event.key.keysym.sym == SDLK_LEFT) {
             m.camera.position[0] += (0.01f * m.movementSensitivity);
         } else if (event.key.keysym.sym == SDLK_RIGHT) {
@@ -83,12 +82,10 @@ void keyboardHandler(SDL_Event event, DrawingWindow &window, Model &m) {
             m.camera.position[1] += (0.01f * m.movementSensitivity);
         } else if (event.key.keysym.sym == SDLK_DOWN) {
             m.camera.position[1] -= (0.01f * m.movementSensitivity);
-        // -= To move position backwards / forwards
         } else if (event.key.keysym.sym == SDLK_EQUALS) {
             m.camera.position[2] -= (0.01f * m.movementSensitivity);
         } else if (event.key.keysym.sym == SDLK_MINUS) {
             m.camera.position[2] += (0.01f * m.movementSensitivity);
-        // op and kl to rotate position about origin
         } else if (event.key.keysym.sym == SDLK_o) {
             m.camera.rotatePositionAboutX(1);
         } else if (event.key.keysym.sym == SDLK_p) {
@@ -97,7 +94,6 @@ void keyboardHandler(SDL_Event event, DrawingWindow &window, Model &m) {
             m.camera.rotatePositionAboutY(1);
         } else if (event.key.keysym.sym == SDLK_l) {
             m.camera.rotatePositionAboutY(-1);
-        // WASD to rotate camera orientation
         } else if (event.key.keysym.sym == SDLK_a) {
             m.camera.rotateOrientationAboutY(-1);
         } else if (event.key.keysym.sym == SDLK_d) {
@@ -106,37 +102,16 @@ void keyboardHandler(SDL_Event event, DrawingWindow &window, Model &m) {
             m.camera.rotateOrientationAboutX(-1);
         } else if (event.key.keysym.sym == SDLK_w) {
             m.camera.rotateOrientationAboutX(1);
-        // Change renderer
         } else if (event.key.keysym.sym == SDLK_1) {
             m.renderer = ConcreteRenderer::Wireframe;
         } else if (event.key.keysym.sym == SDLK_2) {
             m.renderer = ConcreteRenderer::Rasterised;
         } else if (event.key.keysym.sym == SDLK_3) {
             m.renderer = ConcreteRenderer::Raytraced;
-        // Change shading mode
-        } else if (event.key.keysym.sym == SDLK_4) {
-            m.lighting.shadingMode = ShadingMode::None;
-        } else if (event.key.keysym.sym == SDLK_5) {
-            m.lighting.shadingMode = ShadingMode::Gouraud;
-        } else if (event.key.keysym.sym == SDLK_6) {
-            m.lighting.shadingMode = ShadingMode::Phong;
-        }
-        // Change lighting
-        else if (event.key.keysym.sym == SDLK_7) {
-            m.lighting.proximityLighting = !m.lighting.proximityLighting;
-            std::cout << "Proximity Lighting: " << m.lighting.proximityLighting << std::endl;
-        } else if (event.key.keysym.sym == SDLK_8) {
-            m.lighting.angleOfIncidenceLighting = !m.lighting.angleOfIncidenceLighting;
-            std::cout << "Angle-Of-Incidence Lighting: " << m.lighting.angleOfIncidenceLighting << std::endl;
-        } else if (event.key.keysym.sym == SDLK_9) {
-            m.lighting.specularLighting = !m.lighting.specularLighting;
-            std::cout << "Specular Lighting: " << m.lighting.specularLighting << std::endl;
-        } else if (event.key.keysym.sym == SDLK_0) {
-            m.lighting.ambientLighting = !m.lighting.ambientLighting;
-            std::cout << "Ambient Lighting: " << m.lighting.ambientLighting << std::endl;
         }
     } else if (event.type == SDL_MOUSEBUTTONDOWN) window.savePPM("output.ppm");
 }
+
 
 int main(int argc, char *argv[]) {
     DrawingWindow window = DrawingWindow(WIDTH, HEIGHT, false);

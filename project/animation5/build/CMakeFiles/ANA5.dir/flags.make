@@ -4,7 +4,7 @@
 # compile CXX with /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/local/Cellar/sdl2/2.0.10/include/SDL2 -I/Users/zhuangyanhao/Documents/project2/project/animation5/../libs/glm-0.9.7.2 -I/Users/zhuangyanhao/Documents/project2/project/animation5/../libs/sdw -I/Users/zhuangyanhao/Documents/project2/project/animation5/../camera -I/Users/zhuangyanhao/Documents/project2/project/animation5/../render -I/Users/zhuangyanhao/Documents/project2/project/animation5/../render_model -I/Users/zhuangyanhao/Documents/project2/project/animation5/../animation1 -I/Users/zhuangyanhao/Documents/project2/project/animation5/../utils
+CXX_INCLUDES = -I/usr/local/Cellar/sdl2/2.0.10/include/SDL2 -I/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation5/../libs/glm-0.9.7.2 -I/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation5/../libs/sdw -I/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation5/../camera -I/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation5/../render -I/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation5/../render_model -I/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation5/../animation1 -I/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation5/../utils
 
 CXX_FLAGS =  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -std=gnu++17
 

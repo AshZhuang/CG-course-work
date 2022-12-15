@@ -57,10 +57,10 @@ RM = /opt/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/zhuangyanhao/Documents/project2/project/animation2
+CMAKE_SOURCE_DIR = /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/zhuangyanhao/Documents/project2/project/animation2/build3
+CMAKE_BINARY_DIR = /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles /Users/zhuangyanhao/Documents/project2/project/animation2/build3//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -153,437 +153,437 @@ AnimationDriver.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/AnimationDriver.cpp.s
 .PHONY : AnimationDriver.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/camera/Camera.o: Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/camera/Camera.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/camera/Camera.i: Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/camera/Camera.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/camera/Camera.s: Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/camera/Camera.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.o: Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.i: Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.s: Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.o: Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.i: Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.s: Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.o: Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.i: Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.s: Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/render/Renderer.o: Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/Renderer.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/render/Renderer.i: Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/Renderer.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/render/Renderer.s: Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/Renderer.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.o: Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.i: Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.s: Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.o: Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.i: Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.s: Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.o: Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.i: Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.s: Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.o: Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.i: Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.s: Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.s
 
-Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.o: Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.o: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.o
 
 # target to build an object file
-Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o
 
-Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.i: Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.i: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.i
 
 # target to preprocess a source file
-Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.i
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.i
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.i
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.i
 
-Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.s: Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.s: Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.s
 
 # target to generate assembly for a file
-Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.s
-.PHONY : Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.s
+Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ANA2.dir/build.make CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.s
+.PHONY : Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.s
 
 main_animation2.o: main_animation2.cpp.o
 .PHONY : main_animation2.o
@@ -621,60 +621,60 @@ help:
 	@echo "... AnimationDriver.o"
 	@echo "... AnimationDriver.i"
 	@echo "... AnimationDriver.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/camera/Camera.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/camera/Camera.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/camera/Camera.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/Renderer.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/Renderer.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/Renderer.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.s"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.o"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.i"
-	@echo "... Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.s"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.o"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.i"
+	@echo "... Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.s"
 	@echo "... main_animation2.o"
 	@echo "... main_animation2.i"
 	@echo "... main_animation2.s"

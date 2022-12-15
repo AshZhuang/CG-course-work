@@ -53,10 +53,10 @@ RM = /opt/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/zhuangyanhao/Documents/project2/project/animation2
+CMAKE_SOURCE_DIR = /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/zhuangyanhao/Documents/project2/project/animation2/build3
+CMAKE_BINARY_DIR = /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ANA2.dir/depend.make
@@ -69,335 +69,335 @@ include CMakeFiles/ANA2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ANA2.dir/flags.make
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o: /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.s
 
 CMakeFiles/ANA2.dir/AnimationDriver.cpp.o: CMakeFiles/ANA2.dir/flags.make
 CMakeFiles/ANA2.dir/AnimationDriver.cpp.o: ../AnimationDriver.cpp
 CMakeFiles/ANA2.dir/AnimationDriver.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ANA2.dir/AnimationDriver.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/AnimationDriver.cpp.o -MF CMakeFiles/ANA2.dir/AnimationDriver.cpp.o.d -o CMakeFiles/ANA2.dir/AnimationDriver.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/animation2/AnimationDriver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ANA2.dir/AnimationDriver.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/AnimationDriver.cpp.o -MF CMakeFiles/ANA2.dir/AnimationDriver.cpp.o.d -o CMakeFiles/ANA2.dir/AnimationDriver.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/AnimationDriver.cpp
 
 CMakeFiles/ANA2.dir/AnimationDriver.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/AnimationDriver.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/animation2/AnimationDriver.cpp > CMakeFiles/ANA2.dir/AnimationDriver.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/AnimationDriver.cpp > CMakeFiles/ANA2.dir/AnimationDriver.cpp.i
 
 CMakeFiles/ANA2.dir/AnimationDriver.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/AnimationDriver.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/animation2/AnimationDriver.cpp -o CMakeFiles/ANA2.dir/AnimationDriver.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/AnimationDriver.cpp -o CMakeFiles/ANA2.dir/AnimationDriver.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o: /Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o: /Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o: /Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o: /Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o: /Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o: /Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o: /Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o: /Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.s
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o: /Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o: CMakeFiles/ANA2.dir/flags.make
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o: /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o -MF CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o.d -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.i
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp > CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.i
 
-CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.s
+CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp -o CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.s
 
 CMakeFiles/ANA2.dir/main_animation2.cpp.o: CMakeFiles/ANA2.dir/flags.make
 CMakeFiles/ANA2.dir/main_animation2.cpp.o: ../main_animation2.cpp
 CMakeFiles/ANA2.dir/main_animation2.cpp.o: CMakeFiles/ANA2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/ANA2.dir/main_animation2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/main_animation2.cpp.o -MF CMakeFiles/ANA2.dir/main_animation2.cpp.o.d -o CMakeFiles/ANA2.dir/main_animation2.cpp.o -c /Users/zhuangyanhao/Documents/project2/project/animation2/main_animation2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/ANA2.dir/main_animation2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ANA2.dir/main_animation2.cpp.o -MF CMakeFiles/ANA2.dir/main_animation2.cpp.o.d -o CMakeFiles/ANA2.dir/main_animation2.cpp.o -c /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/main_animation2.cpp
 
 CMakeFiles/ANA2.dir/main_animation2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ANA2.dir/main_animation2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/project2/project/animation2/main_animation2.cpp > CMakeFiles/ANA2.dir/main_animation2.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/main_animation2.cpp > CMakeFiles/ANA2.dir/main_animation2.cpp.i
 
 CMakeFiles/ANA2.dir/main_animation2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ANA2.dir/main_animation2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/project2/project/animation2/main_animation2.cpp -o CMakeFiles/ANA2.dir/main_animation2.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/main_animation2.cpp -o CMakeFiles/ANA2.dir/main_animation2.cpp.s
 
 # Object files for target ANA2
 ANA2_OBJECTS = \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o" \
 "CMakeFiles/ANA2.dir/AnimationDriver.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o" \
-"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o" \
+"CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o" \
 "CMakeFiles/ANA2.dir/main_animation2.cpp.o"
 
 # External object files for target ANA2
 ANA2_EXTERNAL_OBJECTS =
 
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasPoint.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/CanvasTriangle.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Colour.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/DrawingWindow.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/ModelTriangle.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/RayTriangleIntersection.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TextureMap.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/TexturePoint.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/libs/sdw/Utils.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasPoint.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/CanvasTriangle.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Colour.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/DrawingWindow.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/ModelTriangle.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/RayTriangleIntersection.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TextureMap.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/TexturePoint.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/libs/sdw/Utils.cpp.o
 ANA2: CMakeFiles/ANA2.dir/AnimationDriver.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/camera/Camera.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/DepthBufferedWindow.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LightingConfiguration.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/LineSegment.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/utils/ObjFile.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RasterisedRenderer.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/RaytracedRenderer.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/Renderer.cpp.o
-ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/project2/project/render/WireframeRenderer.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/camera/Camera.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/DepthBufferedWindow.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LightingConfiguration.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/LineSegment.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/utils/ObjFile.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RasterisedRenderer.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/RaytracedRenderer.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/Renderer.cpp.o
+ANA2: CMakeFiles/ANA2.dir/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/render/WireframeRenderer.cpp.o
 ANA2: CMakeFiles/ANA2.dir/main_animation2.cpp.o
 ANA2: CMakeFiles/ANA2.dir/build.make
 ANA2: CMakeFiles/ANA2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable ANA2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable ANA2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ANA2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -409,6 +409,6 @@ CMakeFiles/ANA2.dir/clean:
 .PHONY : CMakeFiles/ANA2.dir/clean
 
 CMakeFiles/ANA2.dir/depend:
-	cd /Users/zhuangyanhao/Documents/project2/project/animation2/build3 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/zhuangyanhao/Documents/project2/project/animation2 /Users/zhuangyanhao/Documents/project2/project/animation2 /Users/zhuangyanhao/Documents/project2/project/animation2/build3 /Users/zhuangyanhao/Documents/project2/project/animation2/build3 /Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles/ANA2.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2 /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2 /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1 /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1 /Users/zhuangyanhao/Documents/CGcoursework/CG-course-work/project/animation2/build1/CMakeFiles/ANA2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ANA2.dir/depend
 

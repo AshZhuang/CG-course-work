@@ -13,7 +13,7 @@
 
 cmake_minimum_required(VERSION 2.8)
 project(ANA1)
-option(BUILD_TESTS "Enable tests" OFF)
+
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -93,16 +93,4 @@ target_compile_options(ANA1 PUBLIC "$<$<CONFIG:Debug>:${DEBUG_OPTIONS}>")
 target_link_libraries(ANA1 PRIVATE ${SDL2_LIBRARIES})
 
 
-if(BUILD_TESTS)
-    enable_testing()
-    add_executable(tests
-            ../tests/main.cpp
-            ../tests/UtilsTest.cpp
-            ../tests/LightingConfigurationTest.cpp
-            ${SOURCES}
-            )
-    find_package(Catch2 REQUIRED)
-    target_link_libraries(tests PRIVATE Catch2::Catch2)
-    target_link_libraries(tests PRIVATE ${SDL2_LIBRARIES})
-    add_test (NAME Tests COMMAND tests)
-endif()
+
