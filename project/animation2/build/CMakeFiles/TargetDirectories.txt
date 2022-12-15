@@ -1,0 +1,3 @@
+/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles/ANA2.dir
+/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles/edit_cache.dir
+/Users/zhuangyanhao/Documents/project2/project/animation2/build3/CMakeFiles/rebuild_cache.dir
